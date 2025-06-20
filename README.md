@@ -33,7 +33,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Aaditya's Git hub"
-                src="https://github-readme-stats.vercel.app/api?username=JonSlow21&show_icons=true&theme=radical"/>
+                src="https://github-readme-stats.vercel.app/api?username=aadityasaid&show_icons=true&theme=radical"/>
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
