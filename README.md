@@ -1,70 +1,44 @@
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/JonSlow21">Aaditya Said</a></b>
-        </samp>
-</h3>
-<br>
-
-<p align="center">
-        <!-- Intro -->
-        <samp>
-                「 I'm a Student Studing Data Science from <b>India</b> 」
-                <br>
-                「 Focused on Becoming Data Scientist</b> 」
-                <br>
-                <br>
-        </samp>
-        <!-- Technologies -->
-        <!-- JavaScript -->
-        <img src="./assets/python1.png" alt="python" width="40" hight="45">
-        <img src="./assets/sql.png" alt="sql" width="40" hight="45">
-        <img src="./assets/cplusplus.png" alt="c_plus" width="40" hight="50">
-        <img src="./assets/analysis.png" alt="analysis" width="40" hight="50"><br>
-        <img src="./assets/ai.png" alt="AI" width="80" hight="70">
-        <img src="./assets/datascience.png" alt="datascience" width="150" hight="100">
-        <img src="./assets/visualstudio_code.png" alt="visualstudio_code" width="160" hight="100">
-        
-
-<!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Aaditya's Git hub"
-                src="https://github-readme-stats.vercel.app/api?username=aadityasaid&show_icons=true&theme=radical"/>
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.aadityasaid@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/HauntingMadman" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/aaditya-said-632584195/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-    </p>
-</details>
-<br>
-
-<!-- Footer -->
-<samp>
-    <p align="center">
-        <br>
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-    </p>
-</samp>
-
+<!-- Animated Header -->
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JonSlow21.JonSlow21&" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A8F3&center=true&width=435&lines=Hey+There!+I'm+Aaditya+Said+%F0%9F%91%8B;AI+and+Data+Science+Enthusiast+%F0%9F%93%8A;Learning+and+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+<!-- About Me -->
+<p align="center">
+    <samp>
+        「 🚀 Where AI, Machine Learning, and Data Science Intersect  」<br>
+        「 Building Intelligent Futures, One Algorithm at a Time 」
+    </samp>
+</p>
 
+<!-- Animated Technology Stack -->
+<h3 align="center">🛠️ Technologies I Work With</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,cpp,mysql,vscode,github,git,linux" alt="Tech Stack"/>
+</p>
+
+<!-- Animated Social Links -->
+<p align="center">
+    <a href="mailto:connect.aadityasaid@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/aaditya-said-632584195/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/HauntingMadman" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+</p>
+
+<!-- Profile Views with Animation -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=aadityasaid&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count"/>
+</p>
+
+<!-- Animated Footer Quote -->
+<p align="center">
+    <samp>
+        ════ ⋆★⋆ ════<br>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </samp>
+</p>
